@@ -1,0 +1,20 @@
+# Secrets and local config
+.env
+.env.local
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+.next/
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
